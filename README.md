@@ -1,3 +1,5 @@
+[![][microbadger-img]][microbadger]
+
 # cent7ruby24
 
 This image was inspired by
@@ -10,3 +12,8 @@ up these images:
 * [centos/ruby-24-centos7](https://github.com/sclorg/s2i-ruby-container/tree/master/2.4/Dockerfile)
 
 The main purpose for this image is to act as a testing platform in GitLab CI.
+
+
+[microbadger]:https://microbadger.com/images/genebean/cent7ruby24
+[microbadger-img]:https://images.microbadger.com/badges/image/genebean/cent7ruby24.svg
+
